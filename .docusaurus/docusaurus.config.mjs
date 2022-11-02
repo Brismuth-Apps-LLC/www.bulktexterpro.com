@@ -4,15 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "title": "Bulk Texter Pro",
+  "tagline": "Send texts with a personal touch, at scale",
+  "url": "https://www.bulktexterpro.com",
   "baseUrl": "/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -27,12 +25,10 @@ export default {
       {
         "docs": {
           "path": "content",
-          "sidebarPath": "/Volumes/Code/www.bulktexterpro.com/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "sidebarPath": "/Volumes/Code/www.bulktexterpro.com/sidebars.js"
         },
         "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "showReadingTime": true
         },
         "theme": {
           "customCss": "/Volumes/Code/www.bulktexterpro.com/src/css/custom.css"
@@ -42,9 +38,9 @@ export default {
   ],
   "themeConfig": {
     "navbar": {
-      "title": "My Site",
+      "title": "Bulk Texter Pro",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "Bulk Texter Pro Logo",
         "src": "img/logo.svg"
       },
       "items": [
