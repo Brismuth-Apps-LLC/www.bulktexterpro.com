@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwww_bulktexterpro_com=self.webpackChunkwww_bulktexterpro_com||[]).push([[9139],{5745:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-pages","id":"default"}')}}]);
