@@ -5,7 +5,7 @@
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
-    "build": "mv ./docs/CNAME ./; mv ./docs/api ./; mv ./docs/releases ./; docusaurus build --out-dir docs; mv ./CNAME ./docs; mv ./api ./docs; mv ./releases ./docs",
+    "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
