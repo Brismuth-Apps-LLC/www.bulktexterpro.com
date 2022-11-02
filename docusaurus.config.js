@@ -35,9 +35,7 @@ const config = {
           path: 'content',
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: {
-          showReadingTime: true,
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -57,15 +55,15 @@ const config = {
         items: [
           {
             type: 'doc',
+            docId: 'downloads',
+            position: 'left',
+            label: 'Download',
+          },
+          {
+            type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
           },
         ],
       },
@@ -85,16 +83,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Google Voice Bulk Texter (free)',
+                href: 'https://github.com/brismuth/google-voice-bulk-texter',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'My Stack Overflow Profile',
+                href: 'https://stackoverflow.com/users/1569320/brismuth',
               },
             ],
           },
@@ -102,12 +96,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'My Blog',
+                href: 'https://brismuth.com',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/brismuth',
               },
             ],
           },
