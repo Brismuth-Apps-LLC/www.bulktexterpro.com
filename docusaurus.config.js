@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bulk Texter Pro',
-  tagline: 'Send texts with a personal touch, at scale',
+  tagline: 'Send texts with a personal touch, at scale.',
   url: 'https://www.bulktexterpro.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -32,7 +32,6 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          path: 'content',
           sidebarPath: require.resolve('./sidebars.js'),
         },
         blog: false,
@@ -57,7 +56,7 @@ const config = {
             type: 'doc',
             docId: 'downloads',
             position: 'left',
-            label: 'Download',
+            label: 'Downloads',
           },
           {
             type: 'doc',
@@ -80,33 +79,42 @@ const config = {
             ],
           },
           {
+            title: 'Support',
+            items: [
+              {
+                label: 'support@bulktexterpro.com',
+                to: 'mailto:support@bulktexterpro.com',
+              },
+            ],
+          },
+          {
             title: 'Community',
             items: [
               {
                 label: 'Google Voice Bulk Texter (free)',
                 href: 'https://github.com/brismuth/google-voice-bulk-texter',
               },
-              {
-                label: 'My Stack Overflow Profile',
-                href: 'https://stackoverflow.com/users/1569320/brismuth',
-              },
             ],
           },
           {
-            title: 'More',
+            title: 'More about me',
             items: [
               {
-                label: 'My Blog',
+                label: 'Blog',
                 href: 'https://brismuth.com',
               },
               {
                 label: 'GitHub',
                 href: 'https://github.com/brismuth',
               },
+              {
+                label: 'Stack Overflow',
+                href: 'https://stackoverflow.com/users/1569320/brismuth',
+              },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Brismuth Apps, LLC.`,
       },
       prism: {
         theme: lightCodeTheme,

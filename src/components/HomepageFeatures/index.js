@@ -4,32 +4,31 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Use your Existing Phone Number',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Bulk Texter Pro integrates with Google Voice to send messages using your own phone number.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Schedule Messages',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Bulk Texter Pro allows you to schedule custom messages in advance, 
+        so you don't have to be at your computer when they send.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'CSV Upload',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Bulk Texter Pro allows you to generate complex, unique, personal messages, 
+        tailored to each recipient using form entry (similar to Google Voice Bulk Texter) or CSV Upload.
       </>
     ),
   },
