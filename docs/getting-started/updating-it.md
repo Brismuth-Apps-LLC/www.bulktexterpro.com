@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Updating it
+# Updating It
 The process for updating Bulk Texter Pro is similar to the process for installing it. 
 
 Note that you **must** use the same folder as your existing installation, or you may lose data in Bulk Texter Pro, such as your send history and pending messages.

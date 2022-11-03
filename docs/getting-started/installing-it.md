@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Installing it
+# Installing It
 
 ## Instructions for Installing on Chrome
 1. Click "Download for Chrome" on the [Downloads](/downloads) tab 
