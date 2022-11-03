@@ -60,7 +60,7 @@ const config = {
           {
             to: 'docs/getting-started/installing-it',
             position: 'left',
-            label: 'Docs',
+            label: 'Getting Started',
           },
           {
             to: 'docs/features',
