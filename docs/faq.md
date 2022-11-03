@@ -4,9 +4,14 @@ sidebar_position: 15
 
 # FAQ
 
+### How do I install it / set it up?
+Check out our guide here: https://www.bulktexterpro.com/docs/getting-started/installing-it
 
 ### It says I need to update - how do I update it?
-Check out the guide here: https://www.bulktexterpro.com/docs/getting-started/updating-it
+Check out our guide here: https://www.bulktexterpro.com/docs/getting-started/updating-it
+
+### How much does it cost?
+$14.95 a month. After installing it, you can sign up for a 7 day free trial and decide whether it's worth it to you.
 
 ### Bulk Texter Pro is not sending any messages at all!
 * Make sure that your account is registered or you have an active trial
@@ -19,7 +24,7 @@ You'll want to go to the History tab in Bulk Texter Pro, and open the batch with
 ### Scheduled messages aren't sending, but if I schedule them to send right away, it works.
 Make sure that your computer is configured to stay awake, and not sleep/hibernate/shut down. Steps for this can vary based on your computer's operating system. See the [installation guide](/docs/getting-started/installing-it#setting-up-your-computer-for-scheduled-messages) for some tips.
 
-### My account disappeared
+### My account disappeared!
 Click the profile at the top right, then "Register", then click "Log In" and provide the email your previously registered with.
 
 ### I'm getting an error that I've signed in too many times, or that I've hit my install limit.
