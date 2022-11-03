@@ -44,6 +44,9 @@ export default function page() {
               </Link>
             </div>
           </div>
+          <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
+            <p>Once you've downloaded Bulk Texter Pro, head over to <a href="/docs/getting-started/installing-it"> our docs </a> to see installation instructions.</p>
+          </div>
         </section>
       </main>
     </Layout>
