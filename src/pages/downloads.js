@@ -4,14 +4,14 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import DownloadIcon from '@mui/icons-material/Download';
-import EdgeIcon from '@site/static/img/edge-logo.png';
 
 import styles from './index.module.css';
 
 export default function page() {
   const {siteConfig} = useDocusaurusContext();
   const ChromeIcon = require('@site/static/img/chrome-logo.svg').default;
-
+  const EdgeIcon = require('@site/static/img/edge-logo.png').default;
+  
   return (
     <Layout
       title={'Download Bulk Texter Pro'}
@@ -35,7 +35,7 @@ export default function page() {
             </div>
           </div>
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
-            <img  src={EdgeIcon} width='63' alt="Edge Logo" style={{ marginBottom: '16px' }}/>
+            <img src={EdgeIcon} width='63' alt="Edge Logo" style={{ marginBottom: '16px' }}/>
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
                 className="button button--secondary button--lg"

@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Use your own Phone Number',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw-own-phone.svg').default,
     description: (
       <>
         Bulk Texter Pro integrates seamlessly with Google Voice to send messages using your own phone number.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Schedule Messages',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw-schedule-messages.svg').default,
     description: (
       <>
         Bulk Texter Pro allows you to schedule custom messages in advance, 
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'CSV Upload',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw-csv-upload.svg').default,
     description: (
       <>
         Bulk Texter Pro allows you to generate complex, unique, personal messages, 
