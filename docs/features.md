@@ -18,3 +18,5 @@ These are some features that I hope to eventually add to Bulk Texter Pro:
 * Browser integration with Google Messages / Android phones
 * Desktop integration with iMessage
 * Add support for saved replies / quick replies / snippets to the Google Voice UI
+* Integration with Google Contacts
+* Add support for group messages
