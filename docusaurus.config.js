@@ -58,20 +58,17 @@ const config = {
             label: 'Downloads',
           },
           {
-            type: 'doc',
-            docId: 'getting-started/installing-it',
+            to: 'docs/getting-started/installing-it',
             position: 'left',
             label: 'Docs',
           },
           {
-            type: 'doc',
-            docId: 'features',
+            to: 'docs/features',
             position: 'left',
             label: 'Features',
           },
           {
-            type: 'doc',
-            docId: 'faq',
+            to: 'docs/faq',
             position: 'left',
             label: 'FAQ',
           },
