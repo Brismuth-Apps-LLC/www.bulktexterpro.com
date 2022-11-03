@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -34,6 +35,33 @@ const FeatureList = [
   },
 ];
 
+const DemoList = [
+  {
+    title: 'You can preview generated messages! Any formatting issues are surfaced in the preview.',
+    image: require('@site/static/img/demo/demo-form-entry.png').default,
+  },
+  {
+    title: 'CSV upload makes it easy to pipe in as many personalized details as you want!',
+    image: require('@site/static/img/demo/demo-csv-upload.png').default,
+  },
+  {
+    title: 'You can pick any date and time you want for your messages to go out!',
+    image: require('@site/static/img/demo/demo-scheduling.png').default,
+  },
+  {
+    title: 'Review (and cancel, if needed) your pending messages!',
+    image: require('@site/static/img/demo/demo-pending-messages.png').default,
+  },
+  {
+    title: 'You can review your previously sent messages, and export them to CSV!',
+    image: require('@site/static/img/demo/demo-messages-history.png').default,
+  },
+  {
+    title: 'You can see the individual status for every message in a batch!',
+    image: require('@site/static/img/demo/demo-messages-history-review.png').default,
+  },
+];
+
 function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
@@ -48,6 +76,21 @@ function Feature({Svg, title, description}) {
   );
 }
 
+function Demo({image, title}) {
+  return (
+    <div className='row' style={{ justifyContent: 'center', marginTop: '32px' }}>
+      <div className={clsx('col col--8 ')}>
+        <div className={'text--center ' + styles.demoImageWrapper}>
+          <img src={image} role="img" />
+        </div>
+        <div className="text--center padding-horiz--md">
+          <p style={{ fontStyle:'italic', marginTop: '8px' }}>{title}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
@@ -56,6 +99,18 @@ export default function HomepageFeatures() {
           {FeatureList.map((props, idx) => (
             <Feature key={idx} {...props} />
           ))}
+        </div>
+        {DemoList.map((props, idx) => (
+          <Demo key={idx} {...props} />
+        ))}
+        <div className='row' style={{ justifyContent: 'center', marginTop: '32px' }}>
+          <div className={styles.buttons}>
+            <Link
+              className="button button--secondary button--lg"
+              to="/downloads">
+              Download Bulk Texter Pro
+            </Link>
+          </div>
         </div>
       </div>
     </section>
