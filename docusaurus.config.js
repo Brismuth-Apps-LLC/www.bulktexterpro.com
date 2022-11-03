@@ -53,16 +53,27 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'downloads',
+            to: 'downloads',
             position: 'left',
             label: 'Downloads',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'getting-started/installing-it',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
+          },
+          {
+            type: 'doc',
+            docId: 'features',
+            position: 'left',
+            label: 'Features',
+          },
+          {
+            type: 'doc',
+            docId: 'faq',
+            position: 'left',
+            label: 'FAQ',
           },
         ],
       },
@@ -73,8 +84,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About',
+                to: '/docs/about',
+              },
+              {
+                label: 'Getting Started',
+                to: '/docs/getting-started/installing-it',
+              },
+              {
+                label: 'FAQ',
+                to: '/docs/faq',
               },
             ],
           },
@@ -91,7 +110,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Google Voice Bulk Texter (free)',
+                label: 'Bulk Texter (free)',
                 href: 'https://github.com/brismuth/google-voice-bulk-texter',
               },
             ],
@@ -119,6 +138,11 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+      },
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: true,
+        respectPrefersColorScheme: true,
       },
     }),
 };

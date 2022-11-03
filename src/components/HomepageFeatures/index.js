@@ -4,11 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Use your Existing Phone Number',
+    title: 'Use your own Phone Number',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Bulk Texter Pro integrates with Google Voice to send messages using your own phone number.
+        Bulk Texter Pro integrates seamlessly with Google Voice to send messages using your own phone number.
       </>
     ),
   },
