@@ -29,12 +29,12 @@ export default function page() {
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
                 className="button button--secondary button--lg"
-                to="https://www.bulktexterpro.com/releases/bulk-texter-pro-m3.zip">
+                to="https://www.bulktexterpro.com/releases/bulk-texter-pro-chrome.zip">
                 Download for Chrome <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
               </Link>
             </div>
           </div>
-          <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
+          {/* <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <img src={EdgeIcon} width='63' alt="Edge Logo" style={{ marginBottom: '16px' }}/>
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
@@ -43,7 +43,7 @@ export default function page() {
                 Download for Microsoft Edge <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
               </Link>
             </div>
-          </div>
+          </div> */}
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <p>Once you've downloaded Bulk Texter Pro, head over to <a href="/docs/getting-started/installing-it"> our docs </a> to see installation instructions.</p>
           </div>
