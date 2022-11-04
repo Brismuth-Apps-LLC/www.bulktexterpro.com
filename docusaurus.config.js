@@ -99,6 +99,23 @@ const config = {
             ],
           },
           {
+            title: 'Terms',
+            items: [
+              {
+                label: 'Terms of Use',
+                to: '/docs/terms/terms-of-use',
+              },
+              {
+                label: 'Privacy Policy',
+                to: '/docs/terms/privacy-policy',
+              },
+              {
+                label: 'License Agreement',
+                to: '/docs/terms/license-agreement',
+              },
+            ],
+          },
+          {
             title: 'Support',
             items: [
               {
