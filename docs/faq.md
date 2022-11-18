@@ -11,7 +11,9 @@ Check out our guide here: https://www.bulktexterpro.com/docs/getting-started/ins
 Check out our guide here: https://www.bulktexterpro.com/docs/getting-started/updating-it
 
 ### How much does it cost?
-$14.95 a month. After installing it, you can sign up for a 7 day free trial and decide whether it's worth it to you.
+$4.95 a month - less than a cheeseburger! 🍔 
+
+After installing it, you can sign up for a 7 day free trial - and then decide whether the cost is worth it to you to get hours of your life back!
 
 ### Bulk Texter Pro is not sending any messages at all!
 * Make sure that your account is registered or you have an active trial
@@ -31,7 +33,7 @@ Click the profile at the top right, then "Register", then click "Log In" and pro
 Email support@bulktexterpro.com and we'll help you out.
 
 ### Why do I have to reinstall my extension every time I start my computer?
-Make sure that you've downloaded to a "permanent" folder - that chrome is able to find it on boot 
+Make sure that you've downloaded to a "permanent" folder - that Chrome is able to find the folder when your computer first turns on.
 
 ### Why did the extension stop working?
 Occasionally, Google may make changes to Google Voice that stop Bulk Texter Pro from functioning correctly. When this happens, we will update Bulk Texter Pro to support the new changes as quickly as possible. You may be required to manually re-install a new version of Bulk Texter Pro.

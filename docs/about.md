@@ -17,8 +17,6 @@ Over time, the community grew, and users wanted many more features. But building
 
 That's where [Bulk Texter Pro](https://www.bulktexterpro.com/) came in. I decided to rebuild the application from scratch to not only provide a better user experience, but also support complex new features that people frequently requested, such as CSV upload, supporting multiple piped text / variable fields, and allowing messages to be scheduled in advance.
 
-This is kind of an experiment. If people like it, and feel like it's worth the subscription cost ($14.95 a month in exchange for hours of your life back! 😁) then I'll keep building new features, and the tool will get better and better!
-
 # Who Uses Bulk Texter Pro / Google Voice Bulk Texter?
 School teachers are among the extension's most active users - using the extension to send students information about their grades, or reminders about overdue assignments and upcoming tests.
 
