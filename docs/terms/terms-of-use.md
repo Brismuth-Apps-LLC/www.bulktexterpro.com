@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 
 # Terms of Use
-In these terms, "this software" refers to both Bulk Texter Pro and Bulk Texter Lite - whichever you are using.
+In these terms, "this software" refers to both Bulk Texter Pro and Bulk Texter Lite.
 
 By using this software, you agree that you understand and will abide by the following terms:
 * You will not use this software to facilitate any illegal activity.
