@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p className="hero__subtitle">Try it free for 7 days!</p>
+        <p className="hero__subtitle">Try it free for 7 days - then just $4.95 a month!</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
