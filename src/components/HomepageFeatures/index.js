@@ -5,11 +5,12 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    title: 'Use your own Phone Number',
-    Svg: require('@site/static/img/undraw-own-phone.svg').default,
+    title: 'CSV Upload',
+    Svg: require('@site/static/img/undraw-csv-upload.svg').default,
     description: (
       <>
-        Bulk Texter Pro integrates seamlessly with Google Voice to send messages using your own phone number.
+        Bulk Texter Pro allows you to generate complex, unique, personal messages, 
+        tailored to each recipient using form entry (similar to Bulk Texter Lite) or CSV Upload.
       </>
     ),
   },
@@ -24,12 +25,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'CSV Upload',
-    Svg: require('@site/static/img/undraw-csv-upload.svg').default,
+    title: 'Preview Messages',
+    Svg: require('@site/static/img/undraw-message-preview.svg').default,
     description: (
       <>
-        Bulk Texter Pro allows you to generate complex, unique, personal messages, 
-        tailored to each recipient using form entry (similar to Google Voice Bulk Texter) or CSV Upload.
+        Bulk Texter Pro allows you to preview your generated custom messages in advance, 
+        so you can be sure of what you're about to send, and to who.
       </>
     ),
   },
