@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Bulk Texter Pro',
-  tagline: 'Send texts with a personal touch, at scale.',
+  tagline: 'Send texts with a personal touch, at scale, using Google Voice.',
   url: 'https://www.bulktexterpro.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
