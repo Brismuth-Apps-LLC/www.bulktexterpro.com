@@ -47,7 +47,7 @@ You'll need to use a separate Chrome Profile for each Google Voice user you want
 ### When I upload a CSV, it doesn't show all my columns.
 Make sure that the very first row in your CSV/spreadsheet is your column headers, and that there aren't any rows above your column headers.
 
-### Will you still be supporting the free version - Google Voice Bulk Texter?
+### Will you still be supporting the free version - Bulk Texter Lite / Google Voice Bulk Texter?
 Yes - I will make sure that the original feature set continues to function and remains completely free to use. However, the bulk of my development efforts will be spent on improving Bulk Texter Pro.
 
 ### Help, I have a question that isn't answered here!

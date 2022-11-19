@@ -128,7 +128,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Bulk Texter (free)',
+                label: 'Bulk Texter Lite (free)',
                 href: 'https://github.com/brismuth/google-voice-bulk-texter',
               },
             ],
