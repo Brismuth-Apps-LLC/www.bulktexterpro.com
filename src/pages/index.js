@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Get Bulk Texter Pro - send texts with a personal touch, at scale!">
+      description="Get Bulk Texter Pro - send texts with a personal touch, at scale, using Google Voice!">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
