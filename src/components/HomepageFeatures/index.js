@@ -30,7 +30,7 @@ const FeatureList = [
     description: (
       <>
         Bulk Texter Pro allows you to preview your generated custom messages in advance, 
-        so you can be sure of what you're about to send, and to who.
+        so you can be sure of what you're about to send, and to whom.
       </>
     ),
   },
