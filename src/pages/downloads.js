@@ -45,7 +45,12 @@ export default function page() {
             </div>
           </div> */}
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
-            <p>Once you've downloaded Bulk Texter Pro, head over to <a href="/docs/getting-started/installing-it"> our docs </a> to see installation instructions.</p>
+            <div className={clsx('col col--12')} style={{ textAlign: 'center'}}>
+              Once you've downloaded Bulk Texter Pro, check out the <a href="/docs/getting-started/installing-it"> installation instructions </a>.
+            </div>
+            <div className={clsx('col col--12')} style={{ textAlign: 'center'}}>
+              If you are updating Bulk Texter Pro, check out the <a href="/docs/getting-started/updating-it"> update guide</a>.
+            </div>
           </div>
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <p>Support for Firefox/Microsoft Edge coming soon!</p>
