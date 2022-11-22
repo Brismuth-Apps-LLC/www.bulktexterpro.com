@@ -29,12 +29,23 @@ export default function page() {
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
                 className="button button--secondary button--lg"
+                target="_blank"
+                to="https://chrome.google.com/webstore/detail/bulk-texter-pro/kpjadjgajlgmkefnnihfedmcabapnndj">
+                Get via Chrome Web Store <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
+              </Link>
+            </div>
+          </div>
+          {/* Chrome source download */ /* <div className="row" style={{ justifyContent: 'center' }}>
+            <ChromeIcon role='img' width='63' style={{ marginBottom: '16px' }} />
+            <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
+              <Link
+                className="button button--secondary button--lg"
                 to="https://www.bulktexterpro.com/releases/bulk-texter-pro-chrome.zip">
                 Download for Chrome <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
               </Link>
             </div>
-          </div>
-          {/* <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
+          </div> */}
+          {/* Edge source download */ /* <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <img src={EdgeIcon} width='63' alt="Edge Logo" style={{ marginBottom: '16px' }}/>
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
@@ -46,10 +57,7 @@ export default function page() {
           </div> */}
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <div className={clsx('col col--12')} style={{ textAlign: 'center'}}>
-              Once you've downloaded Bulk Texter Pro, check out the <a href="/docs/getting-started/installing-it"> installation instructions </a>.
-            </div>
-            <div className={clsx('col col--12')} style={{ textAlign: 'center'}}>
-              If you are updating Bulk Texter Pro, check out the <a href="/docs/getting-started/updating-it"> update guide</a>.
+              Once you've installed Bulk Texter Pro, check out the <a href="/docs/getting-started/installing-it"> setup guide</a>.
             </div>
           </div>
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>

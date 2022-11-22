@@ -3,16 +3,8 @@ sidebar_position: 2
 ---
 
 # Updating It
-The process for updating Bulk Texter Pro is similar to the process for installing it. 
+Bulk Texter Pro is now available via the [Chrome web store](https://chrome.google.com/webstore/detail/bulk-texter-pro/kpjadjgajlgmkefnnihfedmcabapnndj). If you previously installed it manually, you can remove it on the [chrome://extensions](chrome://extensions) tab and install it using one of the official links on the [Downloads](/downloads) tab.
 
-Note that you **must** use the same folder as your existing installation, or you may lose data in Bulk Texter Pro, such as your send history and pending messages.
+If you have already installed Bulk Texter Pro via one of the official web store links, your browser should update to the latest version automatically within 24-48 hours. 
 
-## Instructions for Updating for Chrome
-1. Click "Download for Chrome" on the [Downloads](/downloads) tab 
-2. Extract the zip file on your computer
-3. Delete the contents of your previously installed Bulk Texter Pro folder (but not the folder itself)
-4. Move the contents of your newly extracted folder from step #2 into the existing installation folder from step #3
-5. Open chrome://extensions in Chrome
-6. Turn on "Developer mode" with the toggle at the top right, if it is not already enabled
-7. Click the "refresh" icon at the bottom right of the Bulk Texter Pro card
-8. That's it! Your extension should now be fully up to date.
+If you want your browser to update to the latest version sooner, you can try uninstalling and reinstalling Bulk Texter Pro. Be careful though - you may lose data within the Bulk Texter App by doing this.

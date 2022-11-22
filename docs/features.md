@@ -20,3 +20,4 @@ These are some features that I hope to eventually add to Bulk Texter Pro:
 * Add support for saved replies / quick replies / snippets to the Google Voice UI
 * Integration with Google Contacts
 * Add support for group messages
+* Full export/import for all app data
