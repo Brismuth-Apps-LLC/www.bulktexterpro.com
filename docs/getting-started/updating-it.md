@@ -7,4 +7,10 @@ Bulk Texter Pro is now available via the [Chrome web store](https://chrome.googl
 
 If you have already installed Bulk Texter Pro via one of the official web store links, your browser should update to the latest version automatically within 24-48 hours. 
 
-If you want your browser to update to the latest version sooner, you can try uninstalling and reinstalling Bulk Texter Pro. Be careful though - you may lose data within the Bulk Texter App by doing this.
+If you want your browser to immediately update to the latest version, you can go to chrome://extensions in your browser and click "Update" at the top left.
+
+## Release Notes
+
+#### v1.0.13 release notes
+- Bulk Texter Pro will now refresh the Google Voice page and continue with pending messages when an error occurs. Previously, if any message an error, the entire message batch would be halted. This should reduce the effort required when some messages have one-off errors.
+- Fixes some small bugs and edge cases
