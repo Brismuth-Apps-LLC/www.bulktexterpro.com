@@ -31,7 +31,7 @@ export default function page() {
                 className="button button--secondary button--lg"
                 target="_blank"
                 to="https://chrome.google.com/webstore/detail/bulk-texter-pro/kpjadjgajlgmkefnnihfedmcabapnndj">
-                Get via Chrome Web Store <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
+                Download for Google Chrome <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
               </Link>
             </div>
           </div>
@@ -45,23 +45,24 @@ export default function page() {
               </Link>
             </div>
           </div> */}
-          {/* Edge source download */ /* <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
+          <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <img src={EdgeIcon} width='63' alt="Edge Logo" style={{ marginBottom: '16px' }}/>
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
                 className="button button--secondary button--lg"
-                to="https://www.bulktexterpro.com/releases/bulk-texter-pro-m3.zip">
+                target="_blank"
+                to="https://microsoftedge.microsoft.com/addons/detail/bulk-texter-pro/epggjlmpfekcdpcfkccdpcadgkfjkamm">
                 Download for Microsoft Edge <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
               </Link>
             </div>
-          </div> */}
+          </div>
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <div className={clsx('col col--12')} style={{ textAlign: 'center'}}>
               Once you've installed Bulk Texter Pro, check out the <a href="/docs/getting-started/installing-it"> setup guide</a>.
             </div>
           </div>
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
-            <p>Support for Firefox/Microsoft Edge coming soon!</p>
+            <p>Support for Firefox coming soon!</p>
           </div>
         </section>
       </main>
