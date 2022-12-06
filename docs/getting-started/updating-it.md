@@ -17,5 +17,5 @@ If you want your browser to immediately update to the latest version, you can go
 - Fixing bug in account verification
 
 #### v1.0.14 release notes
-- Bulk Texter Pro will now refresh the Google Voice page and continue with pending messages when an error occurs. Previously, if any message an error, the entire message batch would be halted. This should reduce the effort required when some messages have one-off errors.
+- Bulk Texter Pro will now refresh the Google Voice page and continue with pending messages when an error occurs. Previously, if any message encountered an error, the entire message batch would be halted. This should reduce the effort required when some messages have one-off errors.
 - Fixes various bugs and edge cases
