@@ -17,8 +17,8 @@ These are some features that I hope to eventually add to Bulk Texter Pro:
 * Sending images
 * Support for MMS/group texts via the CSV tab
 * Browser integration with Google Messages / Android phones
-* Support for Spin Syntax / Spintax
 * Desktop integration with iMessage
+* Support for Spin Syntax / Spintax
 * Saved replies / quick replies / snippets embedded in the Google Voice UI
 * Integration with Google Contacts
 * Saving favorite message templates and contact lists
