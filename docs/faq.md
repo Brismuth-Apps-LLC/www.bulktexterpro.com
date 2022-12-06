@@ -19,9 +19,9 @@ After installing it, you can sign up for a 7 day free trial - and then decide wh
 Bulk Texter Pro does not impose any limits on message sending/frequency beyond what Google Voice imposes. 
 We can not comment on Google Voice's limits, as they are not published, and Bulk Texter Pro is not affiliated with Google/Google Voice. 
 
-Bulk Texter Pro is a new product, but Bulk Texter Lite has many users who have been using it for years without issue, because they are not using it for spam - they are using it as teachers, relegious clergy, coaches, etc. 
+Bulk Texter Pro is a new product, but Bulk Texter Lite has many users who have been using it for years without issue, because they are not using it for spam - they are using it as teachers, relegious clergy, coaches, etc. These users have reported that they can typically send ~60 high quality messages (i.e. not spam) per hour without issue.
 
-If you're looking for a solution for prospecting or marketing, Google Voice and Bulk Texter Pro probably aren't a great choice.
+If you're looking for a solution for prospecting or marketing, Google Voice and Bulk Texter Pro probably aren't the right choice.
 
 ### Bulk Texter Pro allows me to schedule messages, but they never send.
 * Make sure that your account is registered or you have an active trial
