@@ -62,6 +62,11 @@ export default function page() {
             </div>
           </div>
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
+            <div className={clsx('col col--12')} style={{ textAlign: 'center'}}>
+              You can also check out the<a href="/docs/getting-started/updating-it#release-notes"> release notes</a>.
+            </div>
+          </div>
+          <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <p>Support for Firefox coming soon!</p>
           </div>
         </section>
