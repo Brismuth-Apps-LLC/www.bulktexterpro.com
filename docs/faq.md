@@ -15,6 +15,9 @@ $4.95 a month - less than a cheeseburger! 🍔
 
 After installing it, you can sign up for a 7 day free trial - and then decide whether the cost is worth it to you to get hours of your life back!
 
+### What's the difference between Bulk Texter Pro and Bulk Texter Lite?
+You can see a full breakdown on the [Features page](https://www.bulktexterpro.com/docs/features/).
+
 ### How many messages can I send with Bulk Texter Pro?
 Bulk Texter Pro does not impose any limits on message sending/frequency beyond what Google Voice imposes. 
 We can not comment on Google Voice's limits, as they are not published, and Bulk Texter Pro is not affiliated with Google/Google Voice. 
