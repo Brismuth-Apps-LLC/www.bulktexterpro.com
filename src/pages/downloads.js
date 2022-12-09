@@ -11,6 +11,7 @@ export default function page() {
   const {siteConfig} = useDocusaurusContext();
   const ChromeIcon = require('@site/static/img/chrome-logo.svg').default;
   const EdgeIcon = require('@site/static/img/edge-logo.png').default;
+  const FirefoxIcon = require('@site/static/img/firefox-logo.svg').default;
   
   return (
     <Layout
@@ -35,16 +36,6 @@ export default function page() {
               </Link>
             </div>
           </div>
-          {/* Chrome source download */ /* <div className="row" style={{ justifyContent: 'center' }}>
-            <ChromeIcon role='img' width='63' style={{ marginBottom: '16px' }} />
-            <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
-              <Link
-                className="button button--secondary button--lg"
-                to="https://www.bulktexterpro.com/releases/bulk-texter-pro-chrome.zip">
-                Download for Chrome <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
-              </Link>
-            </div>
-          </div> */}
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <img src={EdgeIcon} width='63' alt="Edge Logo" style={{ marginBottom: '16px' }}/>
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
@@ -56,6 +47,27 @@ export default function page() {
               </Link>
             </div>
           </div>
+          <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
+            <FirefoxIcon role='img' width='80' style={{ marginBottom: '16px' }} />
+            <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
+              <Link
+                className="button button--secondary button--lg"
+                target="_blank"
+                to="https://addons.mozilla.org/en-US/firefox/addon/bulk-texter-pro/">
+                Download for Firefox <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
+              </Link>
+            </div>
+          </div>
+          {/* Chrome source download */ /* <div className="row" style={{ justifyContent: 'center' }}>
+            <ChromeIcon role='img' width='63' style={{ marginBottom: '16px' }} />
+            <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
+              <Link
+                className="button button--secondary button--lg"
+                to="https://www.bulktexterpro.com/releases/bulk-texter-pro-chrome.zip">
+                Download for Chrome <DownloadIcon style={{marginBottom:'-6px'}}></DownloadIcon>
+              </Link>
+            </div>
+          </div> */}
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
             <div className={clsx('col col--12')} style={{ textAlign: 'center'}}>
               Once you've installed Bulk Texter Pro, check out the <a href="/docs/getting-started/installing-it"> setup guide</a>.
