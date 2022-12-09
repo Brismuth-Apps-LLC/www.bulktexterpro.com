@@ -92,6 +92,7 @@ Here are some ideas that may help:
 * Some users have reported that when recipients are responsive and text back, they are less likely to experience message blocks from Google.
 * Some users have reported that removing URLs/website links has helped them - but it often does not cause any problem.
 * Try increasing the time between messages, if you're using a shorter delay.
+* Longer messages may be more likely to be blocked as well.
 
 ### How do I appeal a Google Voice account ban?
 We are not affiliated with Google or Google Voice, but you can fill out Google's form here:
