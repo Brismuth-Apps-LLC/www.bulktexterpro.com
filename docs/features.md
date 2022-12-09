@@ -18,7 +18,9 @@ Here are the differences between Bulk Texter Lite and Bulk Texter Pro, as well a
 | Dark Mode :) | ❌ | ✅ |
 | Sending images | ❌ | On the roadmap! |
 | Send MMS/group texts | ❌ | On the roadmap! |
-| Browser integration with Google Messages / Android phones | ❌ | On the roadmap! |
+| Send via [Google Messages](https://messages.google.com/web/) / Android phones | ❌ | On the roadmap! |
+| Send via iMessage (for MacOS) | ❌ | On the roadmap! |
+| Send via [TextNow.com](https://www.textnow.com/) | ❌ | On the roadmap! |
 | MacOS integration with iMessage | ❌ | On the roadmap! |
 | Support for Spin Syntax / Spintax | ❌ | On the roadmap! |
 | Save and use quick replies / snippets within Google Voice | ❌ | On the roadmap! |
