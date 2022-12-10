@@ -50,34 +50,13 @@ Occasionally, Google may make changes to Google Voice that stop Bulk Texter Pro 
 You must have the extension installed in order to manage your subscription. Follow the guide in these docs to install the extension, sign in to your existing account, and click "Manage Subscription" in the user menu.
 
 ### Can I use Bulk Texter Pro with multiple Google accounts?
-You'll need to use a separate Chrome Profile for each Google Voice user you want to use Bulk Texter Pro with, and register Bulk Texter Pro for each account. BulkTexterPro is only authorized to integrate with the Google Voice account that matches the paid registration.
+You'll need to use a separate Chrome / browser profile for each Google Voice user you want to use Bulk Texter Pro with, and register Bulk Texter Pro for each account. BulkTexterPro is only authorized to integrate with the Google Voice account that matches the paid registration.
 
 ### Can I use Bulk Texter Pro with a [Google Workspaces Google Voice](https://workspace.google.com/products/voice/) account?
 Yes, you can - and many of our users do!
 
 ### How does CSV upload work?
-You can add any column you want to your CSV, and then pipe that field into your messages. 
-
-Here's an example that may be useful to teachers:
-
-A CSV like this:
-| Student Name |	Student Number |	Parent Number |	Grade |	Subject |
-| --- | --- | --- | --- | --- |
-| Steffanie |	(111) 222-3333 |	(111) 222-4444 |	95 |	Algebra |
-| Jack |	(111) 222-3334 |	(111) 222-4445 |	85 |	US History |
-
-And a message like this:
-```
-Hi {Student Name}, we just finished grading the exams and you got a {Grade} on your {Subject} test.
-```
-
-Would generate these 4 texts:
-* `(111) 222-3333` => `Hi Steffanie, we just finished grading the exams and you got 95% on your Algebra test.`
-* `(111) 222-4444` => `Hi Steffanie, we just finished grading the exams and you got 95% on your Algebra test.`
-* `(111) 222-3334` => `Hi Jack, we just finished grading the exams and you got 85% on your US History test.`
-* `(111) 222-4445` => `Hi Jack, we just finished grading the exams and you got 85% on your US History test.`
-
-So you could use this to send custom individual messages to both students and parents about a recent test.
+Check out our [documentation on using CSV upload](/docs/getting-started/using-csv-upload).
 
 ### When I upload a CSV, it doesn't show all my columns.
 Make sure that the very first row in your CSV/spreadsheet is your column headers, and that there aren't any rows above your column headers.

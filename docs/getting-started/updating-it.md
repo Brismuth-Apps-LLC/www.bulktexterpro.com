@@ -3,19 +3,29 @@ sidebar_position: 2
 ---
 
 # Updating It
-Bulk Texter Pro is now available via the [Chrome web store](https://chrome.google.com/webstore/detail/bulk-texter-pro/kpjadjgajlgmkefnnihfedmcabapnndj). If you previously installed it manually, you can remove it on the [chrome://extensions](chrome://extensions) tab and install it using one of the official links on the [Downloads](/downloads) tab.
+Bulk Texter Pro is now available via the Chrome web store, Firefox add-on store, and the Microsoft Edge add-ons store. If you previously installed it manually, you can remove it on the [chrome://extensions](chrome://extensions) tab and install it using one of the official links on the [Downloads](/downloads) tab.
 
 If you have already installed Bulk Texter Pro via one of the official web store links, your browser should update to the latest version automatically within 24-48 hours. 
 
-If you want your browser to immediately update to the latest version, you can go to chrome://extensions in your browser and click "Update" at the top left.
+If you want your browser to immediately update to the latest version, you can follow the steps below for your specific browser.
 
-## Release Notes
+### Updating in Google Chrome
+1. Go to [chrome://extensions](chrome://extensions) in Chrome.
+2. Toggle on Developer mode at the top right, if it's not on already.
+3. Click the "Update" button at the top left of the page.
 
-#### v1.0.16 release notes
-- Improving default behavior for the message template input
-- Clarifying send delay
-- Fixing bug in account verification
+### Updating in Microsoft Edge
+1. Go to [edge://extensions](edge://extensions) in Edge.
+2. Toggle on Developer mode on the left, if it's not on already.
+3. Click the "Update" button at the top right of the page.
 
-#### v1.0.14 release notes
-- Bulk Texter Pro will now refresh the Google Voice page and continue with pending messages when an error occurs. Previously, if any message encountered an error, the entire message batch would be halted. This should reduce the effort required when some messages have one-off errors.
-- Fixes various bugs and edge cases
+### Updating in Firefox
+1. Go to [about:addons](about:addons) in Firefox.
+2. Click the Settings icon at the top right of the page.
+3. Click "Check for Updates".
+4. Click "Update Now".
+
+For more detailed instructions, see [Mozilla's official wiki](https://support.mozilla.org/en-US/kb/re-enable-add-ons-disabled-when-updating).
+
+# Release Notes
+See what's changed in the newest version on the [Release Notes](/docs/release-notes) page.

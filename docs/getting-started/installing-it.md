@@ -14,7 +14,7 @@ If you've never registered before, you can start a free 7 day trial by opening t
 
 Otherwise, you can click "Register" to sign up for a new paid account, or log in to your account if you've registered previously.
 
-Whether you are signing up for a free trial or signing up for a paid account, make sure that the email address you sign up with exactly matches the email address associated with your Google Voice account. Bulk Texter Pro will only work with the account that is registered. If you need to register multiple accounts, you'll need to have a Chrome user profile for each account, and register a copy of Bulk Texter Pro on each one.
+Whether you are signing up for a free trial or signing up for a paid account, make sure that the email address you sign up with exactly matches the email address associated with your Google Voice account. Bulk Texter Pro will only work with the account that is registered. If you need to register multiple accounts, you'll need to have a Chrome / browser user profile for each account, and register a copy of Bulk Texter Pro on each one.
 
 # Setting up your computer for Scheduled Messages
 To be certain that scheduled messages are sent on time, ensure the following criteria is met:
