@@ -66,6 +66,7 @@ Yes - I will make sure that the original feature set continues to function and r
 
 ### Do you have any tips to avoid having my messages flagged as spam?
 Here are some ideas that may help:
+* This one may seem obvious, but don't send spam. If you're looking for a solution for prospecting or marketing, Google Voice and Bulk Texter Pro probably aren't the right choice.
 * Avoid sending more than ~50 messages per hour.
 * Ensure that each message is unique (i.e. use names and other variables) and conversational.
 * Some users have reported that when recipients are responsive and text back, they are less likely to experience message blocks from Google.
