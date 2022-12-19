@@ -16,8 +16,8 @@ Here are the differences between Bulk Texter Lite and Bulk Texter Pro, as well a
 | [CSV upload](https://www.bulktexterpro.com/docs/getting-started/using-csv-upload) with unlimited columns/variables | ✅ | ❌ |
 | View / download previously sent messages | ✅ | ❌ |
 | Dark Mode :) | ✅ | ❌ |
+| Send MMS/group texts | ✅ | ❌ |
 | Sending images | On the roadmap! | ❌ |
-| Send MMS/group texts | On the roadmap! | ❌ |
 | Send via [Google Messages](https://messages.google.com/web/) / Android phones | On the roadmap! | ❌ |
 | Send via iMessage (for MacOS) | On the roadmap! | ❌ |
 | Send via [TextNow.com](https://www.textnow.com/) | On the roadmap! | ❌ |

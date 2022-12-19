@@ -4,6 +4,12 @@ sidebar_position: 4
 
 # Release Notes
 
+### v1.1.2
+- Adding support for group texts / MMS messages!
+- Adding option to "Send Now" instead of scheduling messages.
+- Redesigned "Settings for Sending" section.
+- Various bug fixes / UX improvements.
+
 ### v1.0.18
 - Adding international language / UTF8 character support for CSV upload.
 - Bulk Texter Pro will now restore the tab you're on when you refresh the page.
