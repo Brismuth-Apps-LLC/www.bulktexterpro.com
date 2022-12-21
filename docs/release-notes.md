@@ -4,6 +4,9 @@ sidebar_position: 4
 
 # Release Notes
 
+### v1.1.3
+- Bug fixes / UX improvements.
+
 ### v1.1.2
 - Adding support for group texts / MMS messages!
 - Adding option to "Send Now" instead of scheduling messages.
