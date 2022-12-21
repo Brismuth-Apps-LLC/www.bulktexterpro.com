@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Using CSV Upload
@@ -23,7 +23,7 @@ Would generate these 2 group texts:
 * `(111) 222-3333, (111) 222-4444` => `Hi Steffanie, we just finished grading the exams and you got 95% on your Algebra test.`
 * `(111) 222-3334, (111) 222-4445` => `Hi Jack, we just finished grading the exams and you got 85% on your US History test.`
 
-Alternatively, if you've disabled sending group messages in the "Settings for Sending" panel, it would generate these 4 individual texts:
+Alternatively, if you've disabled sending group texts in the "Settings for Sending" panel, it would generate these 4 individual texts:
 * `(111) 222-3333` => `Hi Steffanie, we just finished grading the exams and you got 95% on your Algebra test.`
 * `(111) 222-4444` => `Hi Steffanie, we just finished grading the exams and you got 95% on your Algebra test.`
 * `(111) 222-3334` => `Hi Jack, we just finished grading the exams and you got 85% on your US History test.`
