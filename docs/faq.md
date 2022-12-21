@@ -5,10 +5,10 @@ sidebar_position: 15
 # FAQ
 
 ### How do I install it / set it up?
-Check out our guide here: https://www.bulktexterpro.com/docs/getting-started/installing-it
+Check out our guide on [getting started](/docs/getting-started/installing-it).
 
 ### It says I need to update - how do I update it?
-Check out our guide here: https://www.bulktexterpro.com/docs/getting-started/updating-it
+Check out our guide on [updating it](/docs/getting-started/updating-it).
 
 ### How much does it cost?
 $4.95 a month - less than a cheeseburger! 🍔 
@@ -16,7 +16,7 @@ $4.95 a month - less than a cheeseburger! 🍔
 After installing it, you can sign up for a 7 day free trial - and then decide whether the cost is worth it to you to get hours of your life back!
 
 ### What's the difference between Bulk Texter Pro and Bulk Texter Lite?
-You can see a full breakdown on the [Features page](https://www.bulktexterpro.com/docs/features/).
+You can see a full breakdown on the [Features](/docs/features/) page.
 
 ### How many messages can I send with Bulk Texter Pro?
 Bulk Texter Pro does not impose any limits on message sending/frequency beyond what Google Voice imposes. 
@@ -26,16 +26,23 @@ Bulk Texter Pro is a new product, but Bulk Texter Lite has many users who have b
 
 If you're looking for a solution for prospecting or marketing, Google Voice and Bulk Texter Pro probably aren't the right choice.
 
-### Bulk Texter Pro allows me to schedule messages, but they never send.
-* Make sure that your account is registered or you have an active trial
-* Make sure that it is up to date
+### Bulk Texter Pro won't send messages, even when I set them to be sent right away.
+* Make sure that your account is registered or you have an active trial.
 * Make sure that your registered account matches the Google account you are using to send messages. Ideally, that should be the only Google account you are signed into with your chrome user / browser user.
+* Make sure that Bulk Texter Pro is fully [up to date](/docs/getting-started/updating-it/).
+* Make sure that both your Google Account and your browser settings are set to English for the Google Voice page. Although text messages can be in any language, Bulk Texter Pro requires that the Google Voice interface be in English.
+* Try sending messages manually in Google Voice, without Bulk Texter Pro. If that doesn’t work either then it’s an issue with your Google Account or with Google Voice, and not with Bulk Texter Pro. You'll want to work with Google's support team to resolve the issue.
 
 ### Some messages sent, but some didn't.
 You'll want to go to the History tab in Bulk Texter Pro, and open the batch with the messages that didn't send. There should be an error message next to the messages that failed to send. If you need help troubleshooting, you can email support@bulktexterpro.com.
 
-### Scheduled messages aren't sending unless I schedule them to send right away.
+### Messages sent right away work, but scheduled messages aren't being sent.
 Make sure that your computer is configured to stay awake, and not sleep/hibernate/shut down. Steps for this can vary based on your computer's operating system. See the [installation guide](/docs/getting-started/installing-it#setting-up-your-computer-for-scheduled-messages) for some tips.
+
+### Will Bulk Texter Pro run in the background?
+If Bulk Texter Pro is in the background, it's possible that your operating system or browser may suspend it, but it's also possible that it will work just fine - give it a try!
+
+Note that Bulk Texter Pro uses your clipboard behind the scenes in order to interact with Google Voice, so you will not be able to use your clipboard while it is actively sending messages.
 
 ### My account disappeared!
 Click the profile at the top right, then "Register", then click "Log In" and provide the email your previously registered with.
