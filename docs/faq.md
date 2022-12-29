@@ -57,7 +57,7 @@ Occasionally, Google may make changes to Google Voice that stop Bulk Texter Pro 
 You must have the extension installed in order to manage your subscription. Follow the guide in these docs to install the extension, sign in to your existing account, and click "Manage Subscription" in the user menu.
 
 ### Can I use Bulk Texter Pro with multiple Google accounts?
-Yes! You'll need to use a separate Chrome / browser profile for each Google Voice user you want to use Bulk Texter Pro with, and register Bulk Texter Pro for each account. BulkTexterPro is only authorized to integrate with the Google Voice account that matches the paid registration.
+Yes! You'll need to use a separate Chrome / browser profile for each Google Voice user you want to use Bulk Texter Pro with, and register Bulk Texter Pro for each account. Bulk Texter Pro is only authorized to integrate with the Google Voice account that matches the paid registration.
 
 ### Can I use Bulk Texter Pro with a [Google Workspaces Google Voice](https://workspace.google.com/products/voice/) account?
 Yes, you can - and many of our users do!
