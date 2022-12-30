@@ -34,7 +34,11 @@ If you're looking for a solution for prospecting or marketing, Google Voice and 
 * Try sending messages manually in Google Voice, without Bulk Texter Pro. If that doesn’t work either then it’s an issue with your Google Account or with Google Voice, and not with Bulk Texter Pro. You'll want to work with Google's support team to resolve the issue.
 
 ### Some messages sent, but some didn't.
-You'll want to go to the History tab in Bulk Texter Pro, and open the batch with the messages that didn't send. There should be an error message next to the messages that failed to send. If you need help troubleshooting, you can email support@bulktexterpro.com.
+You'll want to go to the History tab in Bulk Texter Pro, and open the batch with the messages that didn't send. There should be an error message next to the messages that failed to send. 
+
+A "confirmSent" error usually indicates that Google Voice is temporary rate limiting or blocking your account, in which case you should refer to our [tips below](/docs/faq/#do-you-have-any-tips-to-avoid-having-my-messages-flagged-as-spam).
+
+If you need help troubleshooting, you can email support@bulktexterpro.com.
 
 ### Messages sent right away work, but scheduled messages aren't being sent.
 Make sure that your computer is configured to stay awake, and not sleep/hibernate/shut down. Steps for this can vary based on your computer's operating system. See the [installation guide](/docs/getting-started/installing-it#setting-up-your-computer-for-scheduled-messages) for some tips.
