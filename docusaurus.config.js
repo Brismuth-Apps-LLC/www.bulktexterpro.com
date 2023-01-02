@@ -42,6 +42,12 @@ const config = {
           trackingID: 'G-PZM4R8WKXX',
           anonymizeIP: false,
         },
+        sitemap: {
+          changefreq: 'weekly',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       }),
     ],
   ],
