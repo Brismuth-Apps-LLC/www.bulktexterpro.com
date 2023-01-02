@@ -75,7 +75,7 @@ Make sure that the very first row in your CSV/spreadsheet is your column headers
 ### Will you still be supporting the free version - Bulk Texter Lite / Google Voice Bulk Texter?
 Yes - I will make sure that the original feature set continues to function and remains completely free to use. However, the bulk of my development efforts will be spent on improving Bulk Texter Pro.
 
-### Do you have any tips to avoid having my messages flagged as spam?
+### Do you have any tips to avoid having my messages being rate limited or blocked?
 Here are some ideas that may help:
 * This one may seem obvious, but don't send spam. If you're looking for a solution for prospecting or marketing, Google Voice and Bulk Texter Pro probably aren't the right choice.
 * Avoid sending more than ~50 messages per hour.
