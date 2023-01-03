@@ -9,9 +9,9 @@ import styles from './index.module.css';
 
 export default function page() {
   const {siteConfig} = useDocusaurusContext();
-  const ChromeIcon = require('@site/static/img/chrome-logo.svg').default;
+  const ChromeIcon = require('@site/static/img/chrome-logo.png').default;
   const EdgeIcon = require('@site/static/img/edge-logo.png').default;
-  const FirefoxIcon = require('@site/static/img/firefox-logo.svg').default;
+  const FirefoxIcon = require('@site/static/img/firefox-logo.png').default;
   
   return (
     <Layout
@@ -26,7 +26,7 @@ export default function page() {
       <main>
         <section className="container" style={{ padding: '32px' }}>
           <div className="row" style={{ justifyContent: 'center' }}>
-            <ChromeIcon role='img' width='63' style={{ marginBottom: '16px' }} />
+            <img src={ChromeIcon} width='63' alt="Chrome Logo" style={{ marginBottom: '16px' }}/>
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
                 className="button button--secondary button--lg"
@@ -48,7 +48,7 @@ export default function page() {
             </div>
           </div>
           <div className="row" style={{ justifyContent: 'center', marginTop: '32px' }}>
-            <FirefoxIcon role='img' width='80' style={{ marginBottom: '16px' }} />
+            <img src={FirefoxIcon} width='63' alt="Firefox Logo" style={{ marginBottom: '16px' }}/>
             <div className={styles.buttons} style={{marginLeft: '32px', marginBottom: '16px' }}>
               <Link
                 className="button button--secondary button--lg"
