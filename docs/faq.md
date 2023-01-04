@@ -26,6 +26,14 @@ Bulk Texter Pro is a new product, but Bulk Texter Lite has many users who have b
 
 If you're looking for a solution for prospecting or marketing, Google Voice and Bulk Texter Pro probably aren't the right choice.
 
+### The "Register" and "Start free trial" buttons aren't working.
+Bulk Texter Pro requires access to both https://extensionpay.com/ and https://www.bulktexterpro.com/ in order to function correctly. 
+
+1. Make sure that both sites are working by opening them in your browser.
+2. If either of the sites are blocked, you'll need to work with your IT department or network administrator to get them unblocked. The entire domain name should be allowed for each site. 
+
+This should resolve the issue, but if it's still not working, you can email support@bulktexterpro.com. 
+
 ### Bulk Texter Pro won't send messages, even when I set them to be sent right away.
 * Make sure that your account is registered or you have an active trial.
 * Make sure that your registered account matches the Google account you are using to send messages. Ideally, that should be the only Google account you are signed into with your chrome user / browser user.
