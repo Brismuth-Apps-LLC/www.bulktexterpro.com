@@ -4,6 +4,9 @@ sidebar_position: 4
 
 # Release Notes
 
+### v1.1.5
+- Handling errors when extensionpay.com isn't accessible.
+
 ### v1.1.4
 - UX improvements.
 - Improved reliability when running in the background (disabled [tab discarding](https://developer.chrome.com/blog/tab-discarding/) for Google Voice tabs).
