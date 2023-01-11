@@ -4,6 +4,10 @@ sidebar_position: 4
 
 # Release Notes
 
+### v1.1.6
+- The "Settings for Sending" section will now restore whatever settings you selected previously.
+- Handling errors when bulktexterpro.com isn't accessible.
+
 ### v1.1.5
 - Handling errors when extensionpay.com isn't accessible.
 
