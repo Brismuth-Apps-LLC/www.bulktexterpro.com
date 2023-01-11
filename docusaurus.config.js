@@ -63,22 +63,22 @@ const config = {
         },
         items: [
           {
-            to: 'downloads',
+            to: 'downloads/',
             position: 'left',
             label: 'Downloads',
           },
           {
-            to: 'docs/getting-started/installing-it',
+            to: 'docs/getting-started/installing-it/',
             position: 'left',
             label: 'Getting Started',
           },
           {
-            to: 'docs/features',
+            to: 'docs/features/',
             position: 'left',
             label: 'Features',
           },
           {
-            to: 'docs/faq',
+            to: 'docs/faq/',
             position: 'left',
             label: 'FAQ',
           },
@@ -92,15 +92,15 @@ const config = {
             items: [
               {
                 label: 'About',
-                to: '/docs/about',
+                to: '/docs/about/',
               },
               {
                 label: 'Getting Started',
-                to: '/docs/getting-started/installing-it',
+                to: '/docs/getting-started/installing-it/',
               },
               {
                 label: 'FAQ',
-                to: '/docs/faq',
+                to: '/docs/faq/',
               },
             ],
           },
@@ -109,15 +109,15 @@ const config = {
             items: [
               {
                 label: 'Terms of Use',
-                to: '/docs/terms/terms-of-use',
+                to: '/docs/terms/terms-of-use/',
               },
               {
                 label: 'Privacy Policy',
-                to: '/docs/terms/privacy-policy',
+                to: '/docs/terms/privacy-policy/',
               },
               {
                 label: 'License Agreement',
-                to: '/docs/terms/license-agreement',
+                to: '/docs/terms/license-agreement/',
               },
             ],
           },
