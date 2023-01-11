@@ -66,7 +66,12 @@ Email support@bulktexterpro.com and we'll help you out.
 Occasionally, Google may make changes to Google Voice that stop Bulk Texter Pro from functioning correctly. When this happens, we will update Bulk Texter Pro to support the new changes as quickly as possible.
 
 ### How do I cancel my subscription?
-You must have the extension installed in order to manage your subscription. Follow the guide in these docs to install the extension, sign in to your existing account, and click "Manage Subscription" in the user menu.
+If you still have Bulk Texter Pro installed, you can sign in to your existing account and click "Manage Subscription" in the user menu. You will be able to cancel your subscription in the popup.
+
+Alternatively, you can cancel your subscription using this link:
+[Manage my Subscription](https://billing.stripe.com/p/login/bIYaGx0ln5wUg8wdQQ).
+
+You can cancel your subscription at any time. You will be able to continue to use Bulk Texter Pro until the end of your currently paid month.
 
 ### Can I use Bulk Texter Pro with multiple Google accounts?
 Yes! You'll need to use a separate Chrome / browser profile for each Google Voice user you want to use Bulk Texter Pro with, and register Bulk Texter Pro for each account. Bulk Texter Pro is only authorized to integrate with the Google Voice account that matches the paid registration.
