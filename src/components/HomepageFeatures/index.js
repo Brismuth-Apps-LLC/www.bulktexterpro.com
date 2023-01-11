@@ -108,7 +108,7 @@ export default function HomepageFeatures() {
           <div className={styles.buttons}>
             <Link
               className="button button--secondary button--lg"
-              to="/downloads">
+              to="/downloads/">
               Download Bulk Texter Pro
             </Link>
           </div>

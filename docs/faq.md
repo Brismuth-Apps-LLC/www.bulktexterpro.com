@@ -5,10 +5,10 @@ sidebar_position: 15
 # FAQ
 
 ### How do I install it / set it up?
-Check out our guide on [getting started](/docs/getting-started/installing-it).
+Check out our guide on [getting started](/docs/getting-started/installing-it/).
 
 ### It says I need to update - how do I update it?
-Check out our guide on [updating it](/docs/getting-started/updating-it).
+Check out our guide on [updating it](/docs/getting-started/updating-it/).
 
 ### How much does it cost?
 $4.95 a month - less than a cheeseburger! 🍔 
@@ -49,7 +49,7 @@ A "confirmSent" error usually indicates that Google Voice is temporary rate limi
 If you need help troubleshooting, you can email support@bulktexterpro.com.
 
 ### Messages sent right away work, but scheduled messages aren't being sent.
-Make sure that your computer is configured to stay awake, and not sleep/hibernate/shut down. Steps for this can vary based on your computer's operating system. See the [installation guide](/docs/getting-started/installing-it#setting-up-your-computer-for-scheduled-messages) for some tips.
+Make sure that your computer is configured to stay awake, and not sleep/hibernate/shut down. Steps for this can vary based on your computer's operating system. See the [installation guide](/docs/getting-started/installing-it/#setting-up-your-computer-for-scheduled-messages) for some tips.
 
 ### Will Bulk Texter Pro run in the background?
 If Bulk Texter Pro is in the background, it's possible that your operating system or browser may suspend it, but it's also possible that it will work just fine - give it a try!
@@ -75,7 +75,7 @@ Yes! You'll need to use a separate Chrome / browser profile for each Google Voic
 Yes, you can - and many of our users do!
 
 ### How does CSV upload work?
-Check out our [documentation on using CSV upload](/docs/getting-started/using-csv-upload).
+Check out our [documentation on using CSV upload](/docs/getting-started/using-csv-upload/).
 
 ### When I upload a CSV, it doesn't show all my columns.
 Make sure that the very first row in your CSV/spreadsheet is your column headers, and that there aren't any rows above your column headers.

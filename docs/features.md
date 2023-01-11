@@ -15,7 +15,7 @@ Here are the differences between Bulk Texter Lite and Bulk Texter Pro, as well a
 | Unlimited messages <br/> *(limited only by Google, not by us)* | ✅ | ✅ |
 | Schedule messages in advance | ✅ | ❌ |
 | Previewing generated messages pre-send | ✅ | ❌ |
-| [CSV upload](https://www.bulktexterpro.com/docs/getting-started/using-csv-upload) with unlimited columns/variables | ✅ | ❌ |
+| [CSV upload](https://www.bulktexterpro.com/docs/getting-started/using-csv-upload/) with unlimited columns/variables | ✅ | ❌ |
 | Send group texts | ✅ | ❌ |
 | View / download previously sent messages | ✅ | ❌ |
 | Dark Mode :) | ✅ | ❌ |

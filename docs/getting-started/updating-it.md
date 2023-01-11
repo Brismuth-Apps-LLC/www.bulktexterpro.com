@@ -3,7 +3,7 @@ sidebar_position: 2
 ---
 
 # Updating It
-Bulk Texter Pro is now available via the Chrome web store, Firefox add-on store, and the Microsoft Edge add-ons store. If you previously installed it manually, you can remove it on the [chrome://extensions](chrome://extensions) tab and install it using one of the official links on the [Downloads](/downloads) tab.
+Bulk Texter Pro is available via the Chrome web store, Firefox add-on store, and the Microsoft Edge add-ons store. 
 
 If you have already installed Bulk Texter Pro via one of the official web store links, your browser should update to the latest version automatically within 24-48 hours. 
 
@@ -28,4 +28,4 @@ If you want your browser to immediately update to the latest version, you can fo
 For more detailed instructions, see [Mozilla's official wiki](https://support.mozilla.org/en-US/kb/re-enable-add-ons-disabled-when-updating).
 
 # Release Notes
-See what's changed in the newest version on the [Release Notes](/docs/release-notes) page.
+See what's changed in the newest version on the [Release Notes](/docs/release-notes/) page.
