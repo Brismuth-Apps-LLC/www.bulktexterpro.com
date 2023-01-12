@@ -4,6 +4,9 @@ sidebar_position: 4
 
 # Release Notes
 
+### v1.1.7
+- Fixing an edge case in the account verification process.
+
 ### v1.1.6
 - The "Settings for Sending" section will now restore whatever settings you selected previously.
 - Handling errors when bulktexterpro.com isn't accessible.
